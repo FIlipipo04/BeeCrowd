@@ -7,4 +7,4 @@ for _ in range(num):
         if c == '1':
             contador += 1
     print(contador)
-#é importante daber que o bin vai retonar uma string, por isso o if tem que comparar com '1'
+#é importante saber que o bin vai retonar uma string, por isso o if tem que comparar com '1'
